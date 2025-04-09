@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trabajos de Recuperación de 3er Año</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Trabajos de Recuperación de 3er Año</h1>
+
+    <div class="download-buttons">
+      <a href="URL_DEL_PDF_1" download="Trabajo de recuperacion Trimestre 1 Terceros.pdf">
+        <button>Descargar: Trabajo de recuperacion Trimestre 1 Terceros.pdf</button>
+      </a>
+      <a href="URL_DEL_PDF_2" download="Trabajo de recuperacion Trimestre 2 Terceros.pdf">
+        <button>Descargar: Trabajo de recuperacion Trimestre 2 Terceros.pdf</button>
+      </a>
+    </div>
+
+    <div class="footer">
+      <p>Profesor: Alberto Aguirre</p>
+      <p>Secundaria Federal #18</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
